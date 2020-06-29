@@ -1,0 +1,2 @@
+# basecon
+Base de conocimiento
